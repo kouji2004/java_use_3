@@ -25,6 +25,7 @@ public class java2 {
 
 
 
+
 //解答
 //1contains
 //2startsWith
