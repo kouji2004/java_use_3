@@ -15,7 +15,7 @@ public class java2 {
 }
 
 
-//問題
+//問題(上を参考に)
 //1一部に文字列sを含むかを調べるメソッドとは？　＝  ???
 //2文字列sで始まるかを調べる = ???
 //3文字列sで終わるかを調べる = ???
@@ -26,8 +26,8 @@ public class java2 {
 
 
 //解答
-1
-2
-3
-4
-5
+//1contains
+//2startsWith
+//3endsWith
+//4indexOf
+//5lastIndexOf
