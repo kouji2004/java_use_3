@@ -2,7 +2,7 @@ package java1章;
 
 public class java {
   public static void main(String[] ages) {
-    String s1 = "すっきりjava";
+    String s1 = "";
     String s2 = "java";
     String s3 = "jAva";
 
@@ -13,6 +13,9 @@ public class java {
       System.out.println("s2とs3はケースを区別しなければ等しい");
     }
     System.out.println("s1の長さは" + s1.length() + "です");
+    if (s1.isEmpty()) {
+      System.out.println("s1は空です");
+    }
   }
 }
 
