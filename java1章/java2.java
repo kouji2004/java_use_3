@@ -2,7 +2,7 @@ package java1章;
 
 public class java2 {
   public static void main(String[] ages) {
-    String s1 = "java and javascript";
+    String s1 = "java and java";
     if (s1.contains("java")) {
       System.out.println("文字列s1は javaを含んでいる");
     }
@@ -14,21 +14,16 @@ public class java2 {
   }
 }
 
+// 問題(上を参考に)
+// 1一部に文字列sを含むかを調べるメソッドとは？ ＝ ???
+// 2文字列sで始まるかを調べる = ???
+// 3文字列sで終わるかを調べる = ???
+// 4文字ch(または文字列str)が最初に登場する位置を調べる = ???
+// 5文字ch(または文字列str)を後ろから検索して最初に登場する位置を調べる = ???
 
-//問題(上を参考に)
-//1一部に文字列sを含むかを調べるメソッドとは？　＝  ???
-//2文字列sで始まるかを調べる = ???
-//3文字列sで終わるかを調べる = ???
-//4文字ch(または文字列str)が最初に登場する位置を調べる = ???
-//5文字ch(または文字列str)を後ろから検索して最初に登場する位置を調べる = ???
-
-
-
-
-
-//解答
-//1contains
-//2startsWith
-//3endsWith
-//4indexOf
-//5lastIndexOf
+// 解答
+// 1contains
+// 2startsWith
+// 3endsWith
+// 4indexOf
+// 5lastIndexOf
