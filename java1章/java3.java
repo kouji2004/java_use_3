@@ -20,3 +20,6 @@ public class java3 {
 // 解答
 // 1chatAt
 // 2substring
+
+// 注意
+// 数字のカウントの仕方は012345で行われている
