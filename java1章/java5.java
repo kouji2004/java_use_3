@@ -11,3 +11,6 @@ public class java5 {
     scanner.close();
   }
 }
+
+// 注意
+// scannerはインポートしないと使えない
