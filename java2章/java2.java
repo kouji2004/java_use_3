@@ -20,7 +20,7 @@ public class java2 {
     System.out.println("東京" + z2.getYear() + z2.getMonthValue() + z2.getDayOfMonth());
     System.out.println("ロンドン" + z3.getYear() + z3.getMonthValue() + z3.getDayOfMonth());
     if(z2.isEqual(z3)){
-      System.out.println("これらは同じ瞬間を指す")
+      System.out.println("これらは同じ瞬間を指す");
     }
   }
 }
