@@ -19,7 +19,9 @@ public class java2 {
 
     System.out.println("東京" + z2.getYear() + z2.getMonthValue() + z2.getDayOfMonth());
     System.out.println("ロンドン" + z3.getYear() + z3.getMonthValue() + z3.getDayOfMonth());
-    System.out.println("同じ瞬間を示す");
+    if(z2.isEqual(z3)){
+      System.out.println("これらは同じ瞬間を指す")
+    }
   }
 }
 
@@ -28,3 +30,8 @@ public class java2 {
 // LocalDateTime = 日常的に使われる[曖昧な日時]を保持する
 // Duration = 二つの異なる時刻や日時の期間を保持する
 // Period = 二つの異なる時刻や日時の期間を保持する
+
+// 実行結果
+// 東京202212
+// ロンドン202211
+// 同じ瞬間を示す
