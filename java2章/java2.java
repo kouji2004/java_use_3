@@ -22,3 +22,9 @@ public class java2 {
     System.out.println("同じ瞬間を示す");
   }
 }
+
+// Instant = 世界における、ある瞬間の時刻をナノ秒単位で厳密に指し示し、保持する
+// ZoneDateTime = 世界における、ある瞬間の時刻をナノ秒単位で厳密に指し示し、保持する
+// LocalDateTime = 日常的に使われる[曖昧な日時]を保持する
+// Duration = 二つの異なる時刻や日時の期間を保持する
+// Period = 二つの異なる時刻や日時の期間を保持する
