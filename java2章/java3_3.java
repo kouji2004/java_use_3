@@ -22,3 +22,5 @@ public class java3_3 {
 // 実行結果
 // Amethod
 // methodB
+
+
