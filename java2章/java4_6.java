@@ -15,6 +15,6 @@ public static void main(String[]ages){
 }
 }
 //実行結果
-2
-3
-3
+//2
+//3
+//3
