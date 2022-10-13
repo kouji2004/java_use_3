@@ -11,3 +11,8 @@ public class java4_5 {
      addArray(array);
   }
 }
+
+//実行結果
+//1
+//2
+//3
