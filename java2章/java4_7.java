@@ -9,9 +9,15 @@ public class java4_7 {
     return newArray;
   }
   public static void main(String[]ages){
-    int[] array = makeArray(3);
+    int[] array = makeArray(4);
     for(int i:array){
       System.out.println(i);
     }
   }
 }
+
+//実行結果
+//0
+//1
+//2
+//3
